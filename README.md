@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ✨ E aí — eu sou o Pedro! 👋
+#  E aí — eu sou o Pedro! 👋
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=80" alt="computador" width="640"/>
